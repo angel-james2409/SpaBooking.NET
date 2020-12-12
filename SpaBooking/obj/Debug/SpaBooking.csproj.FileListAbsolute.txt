@@ -1,0 +1,16 @@
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\SpaBooking.exe.config
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\SpaBooking.exe
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\SpaBooking.pdb
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\obj\Debug\SpaBooking.csprojAssemblyReference.cache
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\obj\Debug\SpaBooking.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\obj\Debug\SpaBooking.exe
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\obj\Debug\SpaBooking.pdb
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Security.Permissions.dll
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Security.Permissions.xml
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vivek\source\repos\SpaBooking\SpaBooking\obj\Debug\SpaBooking.csproj.CopyComplete
